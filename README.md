@@ -1,7 +1,10 @@
 # AUTOMATED Water Tank Monitoring System
-This project aims to aid in both consumer and vast industrial water/fluid tanks management or in times of human resource scarcity by reducing the need of human intervention.
-## Submited by
-Name  | ID
+
+This project aims to aid in both consumer and vast industrial water/fluid tank management, especially in times of human resource scarcity, by reducing the need for human intervention.
+
+## Submitted by
+
+Name | ID
 ------------- | -------------
 Syed Foyez Uddin | 181400106 
 Md. Kamrul Hassan | 193400002 
@@ -9,37 +12,42 @@ Abdullah-Al-Masum | 193400003
 Mirza Alamin Hossen | 193400037 
 
 ## Supervised by
+
 ### **Razia Sultana**
 Lecturer, Dept. of CSE
 
 ## Objectives
-1. Cut down on employment cost
-2. Reduction of management cost
-3. Increase management efficiency/accuracy through automation
+
+1. Cut down on employment costs
+2. Reduce management costs
+3. Increase management efficiency and accuracy through automation
+
 ## Features
-This project will boast numerous features in managing fluid/water tanks both at consumer and industrial level.
 
-- **Fluid level detection and control**\
-An automated water level management system which will be assigned to adjusting water level in tanks.
+This project will include numerous features for managing fluid/water tanks at both the consumer and industrial levels.
 
-- **Temperature detection and control**\
-A sensor will detect and regulate temperature of fluid in tanks.
+- **Fluid Level Detection and Control**  
+  An automated water level management system will adjust the water level in tanks.
 
-- **Flow/turbulence control**\
-Pumps will regulate flow of fluid in and out of tanks.
+- **Temperature Detection and Control**  
+  A sensor will detect and regulate the temperature of the fluid in tanks.
 
-- **pH sensor**\
-In water tanks, pH sensors will detect pH levels and warn of any intolerance level reach.
+- **Flow/Turbulence Control**  
+  Pumps will regulate the flow of fluid in and out of tanks.
 
-- **Organic contaminant detection**\
-A sensor(methane gas) will monitor organic contamination in tanks.
+- **pH Sensor**  
+  In water tanks, pH sensors will detect pH levels and warn of any intolerable levels.
+
+- **Organic Contaminant Detection**  
+  A sensor (methane gas) will monitor organic contamination in tanks.
 
 ## Expected Impact
-- Industries
-  1. Increased production rate
-  2. Management cost reduction
-  3. Employment cost reduction
-- Consumers
-  1. Ease of use
-  2. Ensuring of consumption safety
 
+### Industries
+1. Increased production rate
+2. Management cost reduction
+3. Employment cost reduction
+
+### Consumers
+1. Ease of use
+2. Ensured consumption safety
